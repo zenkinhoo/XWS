@@ -1,2 +1,1 @@
-# XWS
-Mini social network built using microservice architecture
+# XML---Dislinkt
